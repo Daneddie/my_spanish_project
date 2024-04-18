@@ -1,5 +1,6 @@
 import { Route, Routes, useParams } from "react-router-dom";
 
+//6 functions to return the linked pages:
 
 function IndexPage() {
   return(
